@@ -1,1 +1,1 @@
-# Deci
+A Google Drive Portfolio That includes A google Document On My Dream Computer,An App Made in blockly,A Presentation On Representation,A Spreadsheet That Predicts The Areas Of Computing My Friends Like, And A Website On What I Have Learned. 
